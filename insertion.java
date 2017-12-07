@@ -58,3 +58,10 @@ public class insertion {
     }
     
 }
+/*The time complexity of the insertion sort  algorithm is O(n^2)
+
+while coding if you are give some restrictions then, pay attention to those for example if the range of the input is given then, pay attention to it because, some test cases may fail due to integer overflow so, change the datatype accordingly.
+
+Note. Inserion sort is not the best sorting algorithm.
+
+- Dheepthi Somangili*/
